@@ -1,0 +1,1 @@
+Thank you for checking out my Blackjack game project. This took about a day to set up, just to test my coding skills after getting used to Java. Will be updating the game as my knowledge grows as a coder
